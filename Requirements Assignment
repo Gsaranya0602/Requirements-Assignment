@@ -30,3 +30,22 @@ Examples:
 Banking system: Must follow financial regulations
 Healthcare system: Must protect patient data
 E-commerce system: Must support payment gateways
+
+Example: Online Shopping System
+
+Functional Requirements:
+
+* User can login/logout
+* User can search products
+* User can add items to cart
+* User can make payment
+
+Non-Functional Requirements:
+
+* Website should load within  3 seconds
+* System should handle 1000 users simultaneously
+* Payment process should be secure
+
+Domain Requirements:
+* Must support online payment methods
+* Must follow e-commerce business rules
