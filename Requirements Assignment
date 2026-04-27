@@ -1,0 +1,32 @@
+Requirements:
+Requirements are the needs or expectations of a user from a software system. 
+They describe what the system should do and how it should behave.
+
+Types of Requirements:
+1. Functional Requirements:
+
+These define what the system should do (features).
+
+Examples:
+* User can login with username & password
+* User can search products
+* System should generate reports
+
+2. Non-Functional Requirements:
+
+These define how the system should behave .
+
+Examples:
+
+* The system should load within 2 seconds
+* The application should support 1000 users at a time
+* Data should be secure and encrypted
+
+3. Domain Requirements:
+
+These are industry-specific requirements based on the domain in which the software is used.
+
+Examples:
+Banking system: Must follow financial regulations
+Healthcare system: Must protect patient data
+E-commerce system: Must support payment gateways
